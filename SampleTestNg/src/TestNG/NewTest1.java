@@ -7,6 +7,13 @@ public class NewTest1 {
   public void h() {
 	  System.out.println("Testing");
   }
+n
+	local 
+		edit / add / 
+		push
+server - github.com
+	repository
+		-github.com
   
   public void i() {
 	  System.out.println("Test i");
